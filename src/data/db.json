@@ -3,19 +3,19 @@
         {
             "id":1,
             "name": "Tatiana",
-            "identificacion": 123,
+            "user": 123,
             "password": "456"
         },
         {
             "id":2,
             "name": "Isabel",
-            "identificacion": 567,
+            "user": 567,
             "password": "890"
         },
         {
             "id":3,
             "name": "Daniela",
-            "identificacion": 345,
+            "user": 345,
             "password": "678"
         }
     ]
