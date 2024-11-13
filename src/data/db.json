@@ -18,5 +18,21 @@
             "user": 345,
             "password": "678"
         }
-    ]
+    ],
+    "transfers": [
+        {
+          "id": 1,
+          "senderId": 1,
+          "receiptId": 2,
+          "value": 5000000,
+          "date": "2022-10-20"
+        },
+        {
+          "id": 2,
+          "senderId": 3,
+          "receiptId": 1,
+          "value": 100000,
+          "date": "2022-10-19"
+        }
+      ]
 }
